@@ -1,0 +1,15 @@
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\DZ\DZ001\bin\Debug\net6.0\DZ001.exe
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\DZ\DZ001\bin\Debug\net6.0\DZ001.deps.json
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\DZ\DZ001\bin\Debug\net6.0\DZ001.runtimeconfig.json
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\DZ\DZ001\bin\Debug\net6.0\DZ001.dll
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\DZ\DZ001\bin\Debug\net6.0\DZ001.pdb
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\DZ\DZ001\obj\Debug\net6.0\DZ001.csproj.AssemblyReference.cache
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\DZ\DZ001\obj\Debug\net6.0\DZ001.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\DZ\DZ001\obj\Debug\net6.0\DZ001.AssemblyInfoInputs.cache
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\DZ\DZ001\obj\Debug\net6.0\DZ001.AssemblyInfo.cs
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\DZ\DZ001\obj\Debug\net6.0\DZ001.csproj.CoreCompileInputs.cache
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\DZ\DZ001\obj\Debug\net6.0\DZ001.dll
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\DZ\DZ001\obj\Debug\net6.0\refint\DZ001.dll
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\DZ\DZ001\obj\Debug\net6.0\DZ001.pdb
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\DZ\DZ001\obj\Debug\net6.0\DZ001.genruntimeconfig.cache
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\DZ\DZ001\obj\Debug\net6.0\ref\DZ001.dll
